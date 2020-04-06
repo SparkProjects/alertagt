@@ -1,0 +1,29 @@
+.footer {
+  padding: 1.5rem 1rem 1.5rem;
+}
+
+.hero-f1 {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.hero-f404 {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.fondo-semi-black{
+  background-color: hsla(0, 0%, 21%, 0.5);
+}
+
+.fnt{
+  background-color: hsla(0, 0%, 7%, 0.8);
+}
+
+.mapa_a{
+  height: 50vh;
+}
