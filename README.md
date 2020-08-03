@@ -3,7 +3,7 @@ Notificación de posibles incendios, localización de centros de salud, trabajo 
 
 ## Proyectos incluidos
 ### AlertaFuegoGT
-Es un sistema de notificación de posibles incendios utilizando datos de la NASA. https://sparkgt.org/alertafuegogt/
+Es un sistema de notificación de posibles incendios utilizando datos de la NASA. https://alertafuegogt.sparkgt.org/
 
 ### Centros de salud
 Ubica al usuario en un mapa y muestra los hospitales que cuentan con aislamiento especial para casos de COVID-19 en Guatemala, incluye un enlace en cada hospital para iniciar la navegación hacia el punto utilizando Google Maps o Waze, trabajo en progreso.
