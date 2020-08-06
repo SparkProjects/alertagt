@@ -8,6 +8,9 @@ Es un sistema de notificación de posibles incendios utilizando datos de la NASA
 ### Centros de salud
 Ubica al usuario en un mapa y muestra los hospitales que cuentan con aislamiento especial para casos de COVID-19 en Guatemala, incluye un enlace en cada hospital para iniciar la navegación hacia el punto utilizando Google Maps o Waze, trabajo en progreso.
 
+### Códigos postales
+Indica el código postal del área seleccionada, se incluye el departamento por si llegara a ser útil, los datos fueron recopilados de la página de la Dirección General de Correo y Telégrafos de Guatemala. http://www.correosytelegrafos.civ.gob.gt/ 
+
 ## Importante
 La fuente de información para realizar estos proyectos es una recopilación de distintas fuentes entre ellas la Infraestructura de Datos Espaciales de Guatemala gestionada por Segeplán, de las cuales se desconoce el año de publicación (se estima entre 2010 - 2012) por lo tanto pueden faltar lugares y centros de salud o puede ser que estén incluidos lugares y puestos de salud que ya no se encuentren disponibles.
 
